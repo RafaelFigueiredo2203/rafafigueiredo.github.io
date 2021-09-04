@@ -1,5 +1,4 @@
-{ 
-  "users":[
+[
   {
     "id": 1,
     "nome": "Camila Mendes",
@@ -38,4 +37,3 @@
   }
  
 ]
-}
